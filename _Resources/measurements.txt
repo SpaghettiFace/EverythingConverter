@@ -95,6 +95,7 @@ Time
         Minute (m = 60s)
         Hour (h = 60m)
         Day (day = 24h)
+        Week (w = 7 days)
         Year
             Julian year (365.25 days)
             Gregorian year (365.2425 days)
